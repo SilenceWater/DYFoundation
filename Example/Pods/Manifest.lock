@@ -1,0 +1,16 @@
+PODS:
+  - DYFoundation (0.1.0)
+
+DEPENDENCIES:
+  - DYFoundation (from `../`)
+
+EXTERNAL SOURCES:
+  DYFoundation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DYFoundation: aeac3d19bf605cf6fd62b5aa5e96a353d7caddf4
+
+PODFILE CHECKSUM: 828435aa9aae842076ba282b576a6c9fa7d14d90
+
+COCOAPODS: 1.6.1

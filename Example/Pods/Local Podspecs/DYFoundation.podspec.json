@@ -1,0 +1,23 @@
+{
+  "name": "DYFoundation",
+  "version": "0.1.0",
+  "summary": "A short description of DYNetwork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/SilenceWater/DYFoundation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "昌": "dyzhcs"
+  },
+  "source": {
+    "git": "https://github.com/SilenceWater/DYFoundation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DYFoundation/Classes/**/*.{h,m}",
+  "public_header_files": "DYFoundation.h"
+}
