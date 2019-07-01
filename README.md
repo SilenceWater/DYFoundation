@@ -9,6 +9,9 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+##demo test
+`# import <DYFoundation/DYFoundation.h>`
+
 ## Requirements
 
 ## Installation
@@ -22,7 +25,7 @@ pod 'DYFoundation'
 
 ## Author
 
-wwwarehouse@163.com, wwwarehouse@163.com
+shichang.wang, wwwarehouse@163.com
 
 ## License
 
